@@ -13,7 +13,7 @@ sites:
     check: "tcp-ping"
     ipv6: true
 status-website:
-  baseUrl: /repo # where "repo" is your repository name
+  baseUrl: /uptime # where "repo" is your repository name
   name: Uptime Status Website
 
 
