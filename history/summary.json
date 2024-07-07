@@ -22,18 +22,20 @@
     "url": "https://IHdesign.media",
     "icon": "https://icons.duckduckgo.com/ip3/ihdesign.media.ico",
     "slug": "ih-design",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 475,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
-    "dailyMinutesDown": {}
+    "time": 493,
+    "timeDay": 383,
+    "timeWeek": 493,
+    "timeMonth": 493,
+    "timeYear": 493,
+    "dailyMinutesDown": {
+      "2024-07-07": 0
+    }
   },
   {
     "name": "IPv6 test",
